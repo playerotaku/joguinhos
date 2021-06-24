@@ -1,0 +1,7 @@
+livro
+bolo
+filme
+jogar
+dormir
+estudar
+cozinhar
