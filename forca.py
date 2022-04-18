@@ -102,6 +102,6 @@ def imprime_mensagem_vencedor():
     print("         _.' '._        ")
     print("        '-------'       ")
 
-
+print("receba carai")
 if __name__ == "__main__":
     jogar()
